@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=a1Cm7vt0_zI
 ### `What is Docker and why use it ? VM vs Docker` -
 
 https://www.youtube.com/watch?v=u-YWtdbpEhQ
+
+# Other important resources
+https://github.com/shashank88/system_design
