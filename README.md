@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=zaRkONvyGr8&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPy
 
 https://www.toptal.com/big-data/consistent-hashing
 
+### `Database sharding` -
+
+https://www.youtube.com/watch?v=5faMjKuB9bc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=7
+
 ### `Build a distributed cache framework like Redis` - 
 
 https://www.youtube.com/watch?v=a1Cm7vt0_zI
