@@ -1,6 +1,8 @@
 # Interview Preparation
 This is a one stop destination for preparing for an interview
 
+# Coding Practise
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
 # System Design
 
@@ -23,13 +25,6 @@ https://www.toptal.com/big-data/consistent-hashing
 Build a distributed cache framework like Redis - 
 
 https://www.youtube.com/watch?v=a1Cm7vt0_zI
-
-
-
-
-
-
-
 
 # General IT related topics
 
