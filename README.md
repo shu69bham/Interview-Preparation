@@ -4,8 +4,10 @@ This is a one stop destination for preparing for an interview
 # Coding Practise
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
-# System Design
+# Design Patterns
+https://www.dofactory.com/net/design-patterns
 
+# System Design
 This repo contains list of all useful articles/videos links needed for system design and general CS concpets
 
 ### `System Design Playlist(Gaurav Sen)` - 
