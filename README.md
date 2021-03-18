@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=5faMjKuB9bc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPy
 
 https://www.youtube.com/watch?v=a1Cm7vt0_zI
 
+### `Design a service like TinyURL`
+
+https://www.youtube.com/watch?v=fMZMm_0ZhK4
+
 # General IT related topics
 
 ### `What is Docker and why use it ? VM vs Docker` -
