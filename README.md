@@ -30,9 +30,13 @@ https://www.toptal.com/big-data/consistent-hashing
 
 https://www.youtube.com/watch?v=5faMjKuB9bc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=7
 
-### `Build a distributed cache framework like Redis` - 
+### `Design a distributed cache framework like Redis` - 
 
 https://www.youtube.com/watch?v=a1Cm7vt0_zI
+
+### `Design a CDN` -
+
+https://www.youtube.com/watch?v=dzzPP87zUq4
 
 ### `Design a service like TinyURL`
 
