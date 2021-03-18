@@ -44,5 +44,9 @@ https://www.youtube.com/watch?v=fMZMm_0ZhK4
 
 https://www.youtube.com/watch?v=u-YWtdbpEhQ
 
+### `KAFKA` -
+
+https://www.youtube.com/watch?v=PzPXRmVHMxI
+
 # Other important resources
 https://github.com/shashank88/system_design
