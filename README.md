@@ -10,7 +10,7 @@ https://www.dofactory.com/net/design-patterns
 # System Design
 This repo contains list of all useful articles/videos links needed for system design and general CS concpets
 
-Things to study - https://www.youtube.com/watch?v=UzLMhqg3_Wc
+Things to study(Tushar Roy) - https://www.youtube.com/watch?v=UzLMhqg3_Wc
 
 ### `System Design Playlist(Gaurav Sen)` - 
 
