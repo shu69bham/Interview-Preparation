@@ -62,7 +62,9 @@ https://www.youtube.com/watch?v=U9arSNHLgsc
 
 https://www.youtube.com/watch?v=AQDCe585Lnc
 
-### `SSL Certificate` -
+### `SSL Certificate and HTTP vs HTTPs` -
+
+https://www.youtube.com/watch?v=T4Df5_cojAs
 
 https://www.youtube.com/watch?v=33VYnE7Bzpk
 
