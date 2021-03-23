@@ -52,5 +52,9 @@ https://www.youtube.com/watch?v=u-YWtdbpEhQ
 
 https://www.youtube.com/watch?v=PzPXRmVHMxI
 
+### `OSI Model in networking` -
+
+https://www.youtube.com/watch?v=3kfO61Mensg
+
 # Other important resources
 https://github.com/shashank88/system_design
