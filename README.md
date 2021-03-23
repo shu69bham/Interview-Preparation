@@ -56,5 +56,7 @@ https://www.youtube.com/watch?v=PzPXRmVHMxI
 
 https://www.youtube.com/watch?v=3kfO61Mensg
 
+https://www.youtube.com/watch?v=U9arSNHLgsc
+
 # Other important resources
 https://github.com/shashank88/system_design
