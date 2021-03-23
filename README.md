@@ -58,5 +58,14 @@ https://www.youtube.com/watch?v=3kfO61Mensg
 
 https://www.youtube.com/watch?v=U9arSNHLgsc
 
+### `Public and Private key` -
+
+https://www.youtube.com/watch?v=AQDCe585Lnc
+
+### `SSL Certificate` -
+
+https://www.youtube.com/watch?v=33VYnE7Bzpk
+
+
 # Other important resources
 https://github.com/shashank88/system_design
