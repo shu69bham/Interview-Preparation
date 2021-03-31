@@ -52,6 +52,13 @@ https://www.youtube.com/watch?v=u-YWtdbpEhQ
 
 https://www.youtube.com/watch?v=PzPXRmVHMxI
 
+
+# Networking
+
+### `Networking basic(LAN,WAN,Switch,Hub,Routers, etc)` -
+
+https://www.youtube.com/watch?v=L3ZzkOTDins
+
 ### `OSI Model in networking` -
 
 https://www.youtube.com/watch?v=3kfO61Mensg
@@ -67,7 +74,6 @@ https://www.youtube.com/watch?v=AQDCe585Lnc
 https://www.youtube.com/watch?v=T4Df5_cojAs
 
 https://www.youtube.com/watch?v=33VYnE7Bzpk
-
 
 # Other important resources
 https://github.com/shashank88/system_design
