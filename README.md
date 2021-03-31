@@ -75,5 +75,9 @@ https://www.youtube.com/watch?v=T4Df5_cojAs
 
 https://www.youtube.com/watch?v=33VYnE7Bzpk
 
+### `VPN` -
+
+https://www.vpnuniversity.com/learn/how-vpn-encryption-works
+
 # Other important resources
 https://github.com/shashank88/system_design
