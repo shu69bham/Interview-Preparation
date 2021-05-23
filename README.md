@@ -4,6 +4,8 @@ This is a one stop destination for those preparing for an interview and have 3+ 
 # Coding Practise
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
+https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/
+
 # Design Patterns
 https://www.dofactory.com/net/design-patterns
 
