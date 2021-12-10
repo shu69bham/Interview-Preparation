@@ -9,6 +9,11 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/
 # Design Patterns
 https://www.dofactory.com/net/design-patterns
 
+# SOLID Principles
+https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+
+Liskov Substitution Principle - https://dotnettutorials.net/lesson/liskov-substitution-principle/
+
 # System Design
 This repo contains list of all useful articles/videos links needed for system design and general CS concpets
 
