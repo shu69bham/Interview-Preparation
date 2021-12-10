@@ -9,6 +9,8 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/
 # Design Patterns
 https://refactoring.guru/design-patterns/csharp
 
+Adapter Pattern - https://www.geeksforgeeks.org/adapter-pattern/
+
 # SOLID Principles
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 
