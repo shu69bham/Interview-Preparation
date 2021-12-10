@@ -17,9 +17,11 @@ Liskov Substitution Principle - https://dotnettutorials.net/lesson/liskov-substi
 # System Design
 This repo contains list of all useful articles/videos links needed for system design and general CS concpets
 
-LLD + HLD (Grokking the System Design/Object Oriented Interview) - https://akshay-iyangar.github.io/system-design/
-
 Things to study(Tushar Roy) - https://www.youtube.com/watch?v=UzLMhqg3_Wc
+
+### `LLD + HLD (Grokking the System Design/Object Oriented Interview)` - 
+
+https://akshay-iyangar.github.io/system-design/
 
 ### `System Design Playlist(Gaurav Sen)` - 
 
