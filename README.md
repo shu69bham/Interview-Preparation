@@ -11,6 +11,8 @@ https://refactoring.guru/design-patterns/csharp
 
 Adapter Pattern - https://www.geeksforgeeks.org/adapter-pattern/
 
+Decorator Pattern - https://www.javatpoint.com/decorator-pattern
+
 # SOLID Principles
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 
