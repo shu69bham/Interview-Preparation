@@ -7,7 +7,7 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/
 
 # Design Patterns
-https://www.dofactory.com/net/design-patterns
+https://refactoring.guru/design-patterns/csharp
 
 # SOLID Principles
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
