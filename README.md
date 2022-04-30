@@ -67,6 +67,9 @@ https://www.youtube.com/watch?v=u-YWtdbpEhQ
 
 https://www.youtube.com/watch?v=PzPXRmVHMxI
 
+### `Authentication` -
+
+https://bhavaniravi.com/blog/authentication-in-python/#authentication-in-a-distributed-system
 
 # Networking
 
