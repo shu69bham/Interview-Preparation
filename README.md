@@ -93,6 +93,10 @@ https://www.youtube.com/watch?v=T4Df5_cojAs
 
 https://www.youtube.com/watch?v=33VYnE7Bzpk
 
+### `HTTP2` -
+
+https://www.cloudflare.com/en-in/learning/performance/http2-vs-http1.1/
+
 ### `VPN` -
 
 Encyrption - https://www.vpnuniversity.com/learn/how-vpn-encryption-works
