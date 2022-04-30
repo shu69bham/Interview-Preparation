@@ -99,5 +99,11 @@ Encyrption - https://www.vpnuniversity.com/learn/how-vpn-encryption-works
 
 Tunneling - https://www.youtube.com/watch?v=xGjGQ24cXAY
 
+### `Websockets vs Long Polling` -
+
+https://ably.com/blog/websockets-vs-long-polling
+
+https://dev.to/kevburnsjr/websockets-vs-long-polling-3a0o#:~:text=WebSockets%20are%20Full%2DDuplex%20meaning,communicate%20something%20to%20the%20server.
+
 # Other important resources
 https://github.com/shashank88/system_design
